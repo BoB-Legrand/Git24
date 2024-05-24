@@ -1,2 +1,5 @@
 Test ajout vers repo à distance !
 Ligne 3 venue d'ailleurs
+Une nouvelle ligne
+Encore une nouvelle ligne dans ma branche en local
+Et une ligne de plus dans ma branche en remote
